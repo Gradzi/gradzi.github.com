@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Spinning My Wheels]]></title>
+  <link href="http://www.gradzi.ca/atom.xml" rel="self"/>
+  <link href="http://www.gradzi.ca/"/>
+  <updated>2012-06-12T20:04:02-07:00</updated>
+  <id>http://www.gradzi.ca/</id>
+  <author>
+    <name><![CDATA[Dominik Gradzi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
