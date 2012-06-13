@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.gradzi.ca/about/</loc>
+        <loc>http://Gradzi.github.com/about/</loc>
         <lastmod>2012-06-12T18:41:04-07:00</lastmod>
     </url>
     <url>
-        <loc>http://www.gradzi.ca/blog/archives/</loc>
+        <loc>http://Gradzi.github.com/blog/archives/</loc>
         <lastmod>2012-06-12T19:06:21-07:00</lastmod>
     </url>
     <url>
-        <loc>http://www.gradzi.ca/</loc>
+        <loc>http://Gradzi.github.com/</loc>
         <lastmod>2012-06-12T19:12:29-07:00</lastmod>
     </url>
 </urlset>
